@@ -61,10 +61,10 @@ Interested in building fun, interactive, and beautiful games
 <a href="https://github.com/rishavanand" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-<a href="https://github.com/rishavanand" target="_blank">
+<a href="mailto:chess.rs56@gmail.com" target="_blank">
 <img src=https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-<a href="https://telegram/LovemCanis" target="_blank">
+<a href="https://t.me/LovemCanis" target="_blank">
 <img src=https://img.shields.io/badge/-telegram-red?&style=for-the-badge&logo=telegram&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
 <a href="https://g2g4.itch.io" target="_blank">
@@ -76,7 +76,11 @@ Interested in building fun, interactive, and beautiful games
 <a href="https://instagram.com/geryghan" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>  
-</div>   
+</div> 
+<br>
+<p align="center">
+  <img width="230" src="connected.gif" />
+</p>
 
 <hr/>
 
