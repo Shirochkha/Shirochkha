@@ -56,16 +56,38 @@ Interested in building fun, interactive, and beautiful games
 
 </td></tr></table> 
 
+## Connect with me  
+<div align="center">
+<a href="https://github.com/rishavanand" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://github.com/rishavanand" target="_blank">
+<img src=https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://telegram/LovemCanis" target="_blank">
+<img src=https://img.shields.io/badge/-telegram-red?&style=for-the-badge&logo=telegram&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://g2g4.itch.io" target="_blank">
+<img src=https://img.shields.io/badge/Itch-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://linkedin.com/in" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+<a href="https://instagram.com/geryghan" target="_blank">
+<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+</a>  
+</div>   
+
 <hr/>
 
 <details>
   <summary><b>:gear: &nbsp;GitHub Statistics</b></summary>
   <br/>
     <p align="center">
-        <img height="137px" src="https://github-readme-streak-stats.herokuapp.com/?user=brunotacca&hide_border=true&theme=nightowl" />
+        <img height="137px" src="https://github-readme-streak-stats.herokuapp.com/?user=Shirochkha&hide_border=true&theme=nightowl" />
     </p>
     <p align="center">
-        <img height="137px" src="https://github-readme-stats.vercel.app/api?username=brunotacca&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=nightowl" /> <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunotacca&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=8&theme=nightowl" />
+        <img height="137px" src="https://github-readme-stats.vercel.app/api?username=Shirochkha&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=nightowl" /> <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shirochkha&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=8&theme=nightowl" />
     </p>
 </details>
 
